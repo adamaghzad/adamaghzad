@@ -32,7 +32,12 @@ Spécialisé en **ABAP & SAP S/4HANA**, je développe des agents autonomes capab
 | **Enterprise (SAP)** | `ABAP` `SAP S/4HANA` `BAPI` `MM Module` `SoD Audit` |
 | **Backend & Data** | `Python (FastAPI)` `Docker` `SQL Server (SSIS)` `Hadoop` |
 | **Frontend & UI** | `Flutter` `Dart` `Corporate Minimalist UI` |
-
+| Layer | Technologies |
+| :--- | :--- |
+| **Web Frontend** | `Next.js 14` `React` `Tailwind CSS` `TypeScript` |
+| **Backend (JS)** | `Node.js` `Express` `Socket.io` (Real-time sync) |
+| **Mobile** | `Flutter` `Dart` |
+| **AI & SAP** | `LangGraph` `LlamaIndex` `ABAP` `PyRFC` |
 ---
 
 ### 💼 Expériences Marquantes
