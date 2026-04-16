@@ -45,6 +45,7 @@ Spécialisé en **ABAP & SAP S/4HANA**, je développe des agents autonomes capab
 
 ### 📊 Statistiques GitHub
 
+### 📊 Statistiques GitHub
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=adamaghzad&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamaghzad&layout=compact&theme=tokyonight&hide=html,css,javascript" height="170" />
