@@ -22,8 +22,8 @@ I am a 4th-year engineering student at **EMSI Casablanca**, specializing in **AI
 | **Frameworks** | FastAPI, Flutter, Flask |
 | **Enterprise** | SAP S/4HANA (MM Module), SSIS, Hadoop |
 
-## 📊 GitHub Stats
-![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamaghzad&show_icons=true&theme=tokyonight)
+## 📊 GitHub 
+![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamaghzad&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamaghzad&layout=compact&theme=tokyonight)
 
 ---
