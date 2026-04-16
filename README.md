@@ -26,5 +26,4 @@ I am a 4th-year engineering student at **EMSI Casablanca**, specializing in **AI
 ![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamaghzad&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamaghzad&layout=compact&theme=tokyonight)
 
----
-*“Turning data into intelligent actions.”*
+
