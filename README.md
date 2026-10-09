@@ -71,24 +71,35 @@ Care about reliability, usability, and the details beyond the demo.
 </tr>
 </table>
 
-## 📊 GitHub at a Glance
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/adamaghzad">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adamaghzad&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=0F6E56&icon_color=00A98F" alt="GitHub statistics" />
-</a>
-<a href="https://github.com/adamaghzad">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamaghzad&layout=compact&hide_border=true&theme=transparent&title_color=0F6E56" alt="Most used languages" />
-</a>
+<table>
+<tr>
+<td align="center" width="50%">
 
-<a href="https://github.com/adamaghzad">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=adamaghzad&hide_border=true&theme=transparent&ring=0F6E56&fire=00A98F&currStreakLabel=0F6E56" alt="GitHub contribution streak" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=adamaghzad&show_icons=true&hide_border=true&bg_color=0B1114&title_color=00C9A7&text_color=A7C7C1&icon_color=00C9A7&ring_color=00C9A7&rank_icon=github&include_all_commits=true" alt="GitHub statistics card" />
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamaghzad&layout=compact&hide_border=true&bg_color=0B1114&title_color=00C9A7&text_color=A7C7C1&langs_count=6" alt="Most used programming languages" />
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=adamaghzad&hide_border=true&background=0B1114&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7&sideLabels=A7C7C1&currStreakNum=E8FFF8&sideNums=E8FFF8&dates=6F918A" alt="GitHub contribution streak" />
+
+</td>
+</tr>
+</table>
+
+<sub>Live cards reflect data provided by GitHub and may be delayed or temporarily unavailable.</sub>
 
 </div>
-
-> Animated widgets use external services and can occasionally be unavailable or rate-limited. Keep your core profile content readable without them.
 
 ## 🧰 Tech Stack
 
@@ -195,6 +206,7 @@ Automated authorization review, risk reporting, and AI-assisted prioritization o
 </tr>
 </table>
 
+> Project descriptions reflect the current profile notes. Add repository/demo links only when the corresponding projects are public.
 
 ## 📜 Certifications
 
