@@ -195,7 +195,6 @@ Automated authorization review, risk reporting, and AI-assisted prioritization o
 </tr>
 </table>
 
-> Project descriptions reflect the current profile notes. Add repository/demo links only when the corresponding projects are public.
 
 ## 📜 Certifications
 
