@@ -226,7 +226,7 @@ Automated authorization review, risk reporting, and AI-assisted prioritization o
 
 </div>
 
-> To activate this animation, configure a GitHub Actions workflow that generates `github-contribution-grid-snake-dark.svg` and publishes it to the `output` branch. Until then, this image may not appear.
+<!-- > To activate this animation, configure a GitHub Actions workflow that generates `github-contribution-grid-snake-dark.svg` and publishes it to the `output` branch. Until then, this image may not appear.-->
 
 ## ⚡ What I'm Exploring
 
