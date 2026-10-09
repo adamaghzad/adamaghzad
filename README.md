@@ -6,27 +6,14 @@
 
 <div align="center">
 
-# Hey there, I'm Adam Aghzaf 👋
+<!-- Animated header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,50:00C9A7,100:1B2A4A&height=190&section=header&text=ADAM%20AGHZAF&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20%7C%20Data%20Science%20%7C%20Full-Stack%20Engineering&descAlignY=58&animation=fadeIn" alt="Animated profile banner" />
 
-### AI & Data Science Engineering Student · GenAI · Agentic AI · Full-Stack Development
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=800&height=55&lines=Building+AI-powered+products;Generative+AI+%7C+RAG+%7C+Multi-Agent+Systems;Voice+AI+%7C+Computer+Vision+%7C+Full-Stack;Turning+ideas+into+real-world+software" alt="Animated typing headline" />
+</a>
 
-<p>
-  <a href="https://github.com/adamaghzad">
-    <img src="https://img.shields.io/badge/GitHub-adamaghzad-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-  </a>
-  <a href="https://www.linkedin.com/in/adamaghzaf">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" />
-  </a>
-  <a href="mailto:adam.aghzaf@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Adam" />
-  </a>
-</p>
-
-📍 Casablanca, Morocco · 🎓 5th-year Engineering Student at EMSI
-
-</div>
-
----
+</div>---
 
 ## 🚀 About Me
 
@@ -39,6 +26,26 @@ I enjoy turning ideas into practical, end-to-end products—from agentic AI syst
 - 🛠️ Developing end-to-end applications, APIs, and AI-powered experiences
 - 🏢 Working with **SAP S/4HANA and ABAP** to automate business workflows
 - 🎯 Looking for a **6-month final-year internship (PFE) starting January 2027**
+
+
+## 📊 GitHub at a Glance
+
+<div align="center">
+
+<a href="https://github.com/adamaghzad">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adamaghzad&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=0F6E56&icon_color=00A98F" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/adamaghzad">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamaghzad&layout=compact&hide_border=true&theme=transparent&title_color=0F6E56" alt="Most used languages" />
+</a>
+
+<a href="https://github.com/adamaghzad">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=adamaghzad&hide_border=true&theme=transparent&ring=0F6E56&fire=00A98F&currStreakLabel=0F6E56" alt="GitHub contribution streak" />
+</a>
+
+</div>
+
+> Stats and animations are loaded from external services, so they may occasionally be unavailable or rate-limited.
 
 ## 🧰 Tech Stack
 
@@ -116,6 +123,7 @@ I enjoy turning ideas into practical, end-to-end products—from agentic AI syst
 - Implemented real-time GPS tracking, incident management, and route reports.
 - Integrated APIs connecting mobile, web, and backend services.
 
+> 🔗 Add links to the corresponding repositories or demos to each project when they are public.
 
 ## 📜 Certifications
 
@@ -142,5 +150,9 @@ I'm always happy to connect with developers, AI enthusiasts, and teams building 
 ---
 
 <div align="center">
-  <i>Building intelligent systems, one project at a time. 🚀</i>
+
+### ✨ Always learning. Always building. Always improving.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A4A,50:00C9A7,100:0F6E56&height=110&section=footer" alt="Animated footer wave" />
+
 </div>
