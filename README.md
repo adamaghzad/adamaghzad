@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 À propos de moi
-Je suis un **élève ingénieur en 4ème année à l'EMSI Casablanca**, passionné par la convergence entre les **systèmes d'entreprise traditionnels (ERP)** et l'**Intelligence Artificielle de pointe**. 
+Je suis un **élève ingénieur en 5ème année à l'EMSI Casablanca**, passionné par la convergence entre les **systèmes d'entreprise traditionnels (ERP)** et l'**Intelligence Artificielle de pointe**. 
 
 Spécialisé en **ABAP & SAP S/4HANA**, je développe des agents autonomes capables de piloter des transactions complexes par la voix, l'OCR et le raisonnement logique. Mon objectif : transformer les ERP en systèmes vivants et intuitifs.
 
