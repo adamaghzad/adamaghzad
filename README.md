@@ -6,12 +6,20 @@
 
 <div align="center">
 
-<!-- Animated header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,50:00C9A7,100:1B2A4A&height=190&section=header&text=ADAM%20AGHZAF&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20%7C%20Data%20Science%20%7C%20Full-Stack%20Engineering&descAlignY=58&animation=fadeIn" alt="Animated profile banner" />
+<!-- ✦ Signature animated hero -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&text=ADAM%20AGHZAF&fontSize=62&fontColor=E9FFF8&stroke=00C9A7&strokeWidth=1&animation=twinkling&color=0:071A18,35:0F6E56,70:102B40,100:071A18&desc=I%20BUILD%20INTELLIGENT%20SYSTEMS&descSize=16&descAlignY=72&fontAlignY=42" alt="Animated signature banner" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=800&height=55&lines=Building+AI-powered+products;Generative+AI+%7C+RAG+%7C+Multi-Agent+Systems;Voice+AI+%7C+Computer+Vision+%7C+Full-Stack;Turning+ideas+into+real-world+software" alt="Animated typing headline" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=750&color=00C9A7&center=true&vCenter=true&width=850&height=45&lines=AI+%2B+Engineering+%2B+Product+Thinking;From+LLM+prototypes+to+production-minded+systems;Multi-Agent+AI+%7C+RAG+%7C+Voice+AI;Full-Stack+%7C+Mobile+%7C+Applied+Computer+Vision" alt="Animated headline" />
+
+<p>
+  <img src="https://img.shields.io/badge/FOCUS-AGENTIC_AI-0F6E56?style=for-the-badge&labelColor=071A18" alt="Focus: Agentic AI" />
+  <img src="https://img.shields.io/badge/BUILD-MINDS%20%2B%20MACHINES-00A98F?style=for-the-badge&labelColor=071A18" alt="Build minds and machines" />
+  <img src="https://img.shields.io/badge/OPEN_TO-PFE_JAN_2027-1B4965?style=for-the-badge&labelColor=071A18" alt="Open to PFE January 2027" />
+</p>
+
+<a href="https://github.com/adamaghzad"><img src="https://komarev.com/ghpvc/?username=adamaghzad&style=flat-square&color=0F6E56&label=PROFILE+VISITS" alt="Profile visits" /></a>
+&nbsp;
+<a href="https://github.com/adamaghzad?tab=followers"><img src="https://img.shields.io/github/followers/adamaghzad?style=flat-square&color=00A98F&labelColor=071A18&label=FOLLOWERS" alt="GitHub followers" /></a>
 
 </div>---
 
@@ -27,6 +35,41 @@ I enjoy turning ideas into practical, end-to-end products—from agentic AI syst
 - 🏢 Working with **SAP S/4HANA and ABAP** to automate business workflows
 - 🎯 Looking for a **6-month final-year internship (PFE) starting January 2027**
 
+
+
+## ◈ The Builder's Mindset
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**01 · THINK**
+
+<br/>🧠
+
+Understand the problem. Design the system. Choose the right tool.
+
+</td>
+<td width="33%" align="center">
+
+**02 · BUILD**
+
+<br/>⚙️
+
+Connect AI, APIs, data, and interfaces into one useful product.
+
+</td>
+<td width="33%" align="center">
+
+**03 · SHIP**
+
+<br/>🚀
+
+Care about reliability, usability, and the details beyond the demo.
+
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub at a Glance
 
@@ -45,7 +88,7 @@ I enjoy turning ideas into practical, end-to-end products—from agentic AI syst
 
 </div>
 
-> Stats and animations are loaded from external services, so they may occasionally be unavailable or rate-limited.
+> Animated widgets use external services and can occasionally be unavailable or rate-limited. Keep your core profile content readable without them.
 
 ## 🧰 Tech Stack
 
@@ -83,47 +126,76 @@ I enjoy turning ideas into practical, end-to-end products—from agentic AI syst
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
 </p>
 
-## 🌟 Featured Projects
+## ✦ Selected Builds
 
-### 🧠 Miko — Life OS · Multi-Agent AI Assistant
-**LangChain · LangGraph · LlamaIndex · FastAPI · Flutter · Ollama · ChromaDB**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Designed a multi-agent architecture with specialized agents for planning, analysis, and content generation.
-- Built a multi-silo RAG architecture with ChromaDB to separate and control knowledge sources.
-- Added persistent memory and Human-in-the-Loop validation for sensitive actions.
-- Developed real-time voice interactions using faster-whisper, Edge-TTS, and SSE streaming.
-- Integrated mobile and application actions with Flutter, Next.js, WhatsApp Business, and Gmail.
+### 🧠 Miko — Life OS
+**Multi-Agent AI Assistant**
 
-### 🏋️ AI Fitness Coach — Mobile Application
-**Flutter · Python · TensorFlow · Firebase · Computer Vision**
+`LangGraph` `RAG` `FastAPI` `Flutter` `Ollama`
 
-- Built a mobile app that generates personalized workout plans based on user data and goals.
-- Implemented real-time posture detection using Computer Vision and TensorFlow.
-- Added adaptive nutrition recommendations based on the user's profile.
+- Specialized agents for planning, analysis, and content generation.
+- Multi-silo retrieval with controlled knowledge sources.
+- Voice interaction, persistent memory, and human-in-the-loop workflows.
 
-### 🎙️ SAP S/4HANA Voice Assistant
-**Voice AI · faster-whisper · NLP · OCR · ABAP · SAP BAPI**
+</td>
+<td width="50%" valign="top">
 
-- Built a multimodal AI solution to automate material creation and master-data workflows in SAP S/4HANA MM.
-- Integrated speech-to-text and NLP to interpret voice commands.
-- Developed an OCR and chat workflow to extract technical details from documents.
-- Connected AI workflows to ABAP programs and SAP BAPIs.
+### 🎙️ SAP Voice Assistant
+**Voice-first enterprise automation**
 
-### 🔐 SAP Authorization Audit & SoD Risk Analysis
-**ABAP · SAP S/4HANA · Data Analysis · AI Scoring**
+`Voice AI` `OCR` `NLP` `ABAP` `SAP BAPI`
 
-- Developed an automated audit module for SAP user authorizations.
-- Analyzed user, role, and authorization data for risk reporting.
-- Designed an AI scoring approach to identify and prioritize Segregation of Duties (SoD) conflicts.
+- Voice commands for material and master-data workflows.
+- Document extraction paired with chat-based workflows.
+- AI connected to SAP-side business processes.
 
-### 🚚 Full-Stack Fleet Management Solution
-**Flutter · Web Dashboard · APIs · GPS Tracking**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-- Built a Flutter mobile app for drivers and a web dashboard for supervisors.
-- Implemented real-time GPS tracking, incident management, and route reports.
-- Integrated APIs connecting mobile, web, and backend services.
+### 🏋️ AI Fitness Coach
+**Adaptive mobile fitness**
 
-> 🔗 Add links to the corresponding repositories or demos to each project when they are public.
+`Flutter` `TensorFlow` `Computer Vision`
+
+- Personalized training plans based on goals and profile.
+- Computer-vision posture analysis.
+- Adaptive nutrition recommendations.
+
+</td>
+<td width="50%" valign="top">
+
+### 🚚 Fleet Management
+**Connected mobile + web operations**
+
+`Flutter` `APIs` `GPS` `Web Dashboard`
+
+- Driver mobile app and supervisor dashboard.
+- GPS tracking, incident handling, and route reporting.
+- API-based coordination between app and backend.
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🔐 SAP Authorization Audit
+**Risk analysis and SoD monitoring**
+
+`ABAP` `SAP S/4HANA` `Data Analysis`
+
+Automated authorization review, risk reporting, and AI-assisted prioritization of Segregation of Duties conflicts.
+
+</td>
+</tr>
+</table>
+
+> Project descriptions reflect the current profile notes. Add repository/demo links only when the corresponding projects are public.
 
 ## 📜 Certifications
 
@@ -132,6 +204,27 @@ I enjoy turning ideas into practical, end-to-end products—from agentic AI syst
 - DeepLearning.AI — Agentic AI & LangGraph
 - Google — Python for Data Science
 - IBM — Machine Learning with Python
+
+
+## 🐍 The Contribution Trail
+
+<div align="center">
+
+<!-- Enable the matching GitHub Action in your profile repository to generate this SVG. -->
+<img src="https://raw.githubusercontent.com/adamaghzad/adamaghzad/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
+
+</div>
+
+> To activate this animation, configure a GitHub Actions workflow that generates `github-contribution-grid-snake-dark.svg` and publishes it to the `output` branch. Until then, this image may not appear.
+
+## ⚡ What I'm Exploring
+
+<div align="center">
+
+`Agentic Workflows` &nbsp; `RAG Evaluation` &nbsp; `LLM Systems` &nbsp; `Voice Interfaces`  
+`Applied Computer Vision` &nbsp; `Production APIs` &nbsp; `Human-in-the-Loop AI`
+
+</div>
 
 ## 🎯 Current Goals
 
@@ -151,8 +244,10 @@ I'm always happy to connect with developers, AI enthusiasts, and teams building 
 
 <div align="center">
 
-### ✨ Always learning. Always building. Always improving.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=00A98F&center=true&vCenter=true&width=650&height=35&lines=Build+with+curiosity.;Engineer+with+purpose.;Make+the+complex+feel+simple." alt="Animated closing message" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A4A,50:00C9A7,100:0F6E56&height=110&section=footer" alt="Animated footer wave" />
+<i>“Building intelligent systems, one project at a time.”</i>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071A18,45:102B40,100:0F6E56&height=120&section=footer&animation=twinkling" alt="Animated footer wave" />
 
 </div>
