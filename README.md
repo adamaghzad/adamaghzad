@@ -116,7 +116,6 @@ I enjoy turning ideas into practical, end-to-end products—from agentic AI syst
 - Implemented real-time GPS tracking, incident management, and route reports.
 - Integrated APIs connecting mobile, web, and backend services.
 
-> 🔗 Add links to the corresponding repositories or demos to each project when they are public.
 
 ## 📜 Certifications
 
